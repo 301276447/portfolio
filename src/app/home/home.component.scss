@@ -1,0 +1,49 @@
+.welcome-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.welcome-section h1 {
+  font-size: 30px;
+  
+}
+
+.welcome-section p {
+  font-size: 18px;
+
+}
+
+.welcome-section button {
+  padding: 10px 20px;
+  background-color: #97f88a;
+ 
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.mission-section {
+  text-align: center;
+}
+
+.mission-section h2 {
+  font-size: 24px;
+  
+}
+
+.mission-section p {
+  font-size: 16px;
+  color: #dc270f;
+}
+
+body{
+  background-color: #f7d9f7;
+}
+
+h1,h2{
+  color:rgba(252, 19, 19, 0.747);
+}
+p{
+  color: red;
+}
